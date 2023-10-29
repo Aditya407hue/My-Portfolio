@@ -1,0 +1,41 @@
+{
+    "projects": [
+      {
+        "date": "20/09/2023",
+        "title": "TECH STAR",
+        "description": "A simple website developed using React , implementing basic react features and used Sass for styling the website",
+        "url": "tech-star-zeta.vercel.app",
+        "imgSrc": "https://cdn.pixabay.com/photo/2018/06/07/16/49/virtual-3460451_960_720.jpg"
+      },
+  
+      {
+        "date": "1/10/2023",
+        "title": "VIDEO HUB",
+        "description": "A website designed using React and Chakra Ui , Fully responsive. Created different components for every route",
+        "url": "https://video-hub-rouge.vercel.app/",
+        "imgSrc": "https://images.unsplash.com/photo-1485846234645-a62644f84728?auto=format&fit=contain&q=100&w=400&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8dmlkZW98ZW58MHx8MHx8fDA%3D"
+      },
+      {
+        "date": "15/10/2023",
+        "title": "CryptoFy",
+        "description": "A website designed using React and Chakra Ui which let us check about different crypto currencies and also gives info about the Top exchanges. Used useEffect and useState hooks alot in this to change the states , Used Chartjs to show Chart in the website. Completely responsive website",
+        "url": "https://crypto-fy.vercel.app/",
+        "imgSrc": "https://images.unsplash.com/photo-1623227413711-25ee4388dae3?auto=format&fit=crop&q=100&w=400&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fGJpdGNvaW58ZW58MHx8MHx8fDA%3D"
+      },
+  
+      {
+        "date": "27/10/2023",
+        "title": "CART_X",
+        "description": "A simple implementation of shopping carts in which we could add a particular item in cart and change its quantity and the Total will change with it ,Fully responsive ", 
+        "url": "https://cart-x-nine.vercel.app/",
+        "imgSrc": "https://cdn.pixabay.com/photo/2019/12/14/08/36/shopping-4694470_960_720.jpg"
+      },
+      {
+        "date": "31/10/2023",
+        "title": "PORTFOLIO",
+        "description": "This is my personal portfolio where i would like show my work",
+        "url": "/",
+        "imgSrc": "https://images.unsplash.com/photo-1531297484001-80022131f5a1?auto=format&fit=crop&q=100&w=400&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8cG9ydGZvbGlvfGVufDB8fDB8fHww"
+      }
+    ]
+  }
