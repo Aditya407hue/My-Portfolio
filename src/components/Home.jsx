@@ -109,7 +109,7 @@ const Home = ({ ratio }) => {
 
             <article data-special>
               <p>Contact</p>
-              <span>official.6packprogrammer@gmail.com</span>
+              <span>aditya2002sjv@gmail.com</span>
             </article>
           </aside>
         </div>
